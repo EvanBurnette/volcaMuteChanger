@@ -2,7 +2,7 @@
 
 Use your phone to control your [pajen firmware modded](https://ranzee.com/volca-fm-firmware-1-09-unofficial/) Volca Sample!
 
-![4 buttons labeled L, M, H, X](/volcaMuteChanger.png)
+![4 buttons labeled L, M, H, X](/volcaMuteChangerScreenshot.png)
 Choose from 4 energy levels: Low, Medium, High, and _*Xtreme*_!
 
 Chrome browser has a built in midi support, allowing us to invent new interfaces with plain web technology and a smartphone.
