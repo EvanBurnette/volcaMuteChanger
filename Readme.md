@@ -1,5 +1,7 @@
 # Volca Mute Changer
 
+Open in Chrome browser at [evanburnette.github.io/volcaMuteChanger](https://evanburnette.github.io/volcaMuteChanger)
+
 Use your phone to control your [pajen firmware modded](https://ranzee.com/volca-fm-firmware-1-09-unofficial/) Volca Sample!
 
 ![4 buttons labeled L, M, H, X](/volcaMuteChangerScreenshot.png)
