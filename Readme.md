@@ -2,6 +2,9 @@
 
 Use your phone to control your [pajen firmware modded](https://ranzee.com/volca-fm-firmware-1-09-unofficial/) Volca Sample!
 
+![4 buttons labeled L, M, H, X](/volcaMuteChanger.png)
+Choose from 4 energy levels: Low, Medium, High, and _*Xtreme*_!
+
 Chrome browser has a built in midi support, allowing us to invent new interfaces with plain web technology and a smartphone.
 
 For my [integrated Arduino based pedalboard midi controller](https://github.com/EvanBurnette/pedalBoardMidiController) I needed to do a bunch of soldering to add this feature to my wah pedal. But I wanted you to use it to, so I added it to the internet!
