@@ -13,8 +13,8 @@ Each button sends a different mute pattern to the Volca. Just change the cases i
 
 ```javascript
 muteState = function(energyLevel){
-  switch(energyLevel){
-  case 0:
+    switch(energyLevel){
+    case 0:
       wantArray.fill(false)
       wantArray[0] = true //case 0 will mute every part but 0 and 1
       wantArray[1] = true //midi is zero indexed so the count starts at 0 instead of 1
