@@ -1,8 +1,8 @@
 # Volca Mute Changer
 
-Open in Chrome browser at [evanburnette.github.io/volcaMuteChanger](https://evanburnette.github.io/volcaMuteChanger)
-
 Use your phone to control your [pajen firmware modded](https://ranzee.com/volca-fm-firmware-1-09-unofficial/) Volca Sample!
+
+Try it in Chrome browser at [https://evanburnette.github.io/volcaMuteChanger](https://evanburnette.github.io/volcaMuteChanger)
 
 ![4 buttons labeled L, M, H, X](/volcaMuteChangerScreenshot.png)
 Choose from 4 energy levels: Low, Medium, High, and __*Xtreme*__!
