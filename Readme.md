@@ -35,7 +35,7 @@ muteState = function(energyLevel){
       wantArray[9] = true 
     	break;
     case 3:
-    	wantArray.fill(true) //unmute all parts
+      wantArray.fill(true) //unmute all parts
     	break;
   }
 ```
